@@ -5,14 +5,14 @@ function preload() {
 
 function setup(){
     createCanvas(1000,800);
-    //crie os sprites de tom e jerry aqui
-
+    //crie os sprites de gato e rato aqui
+    
 }
 
 function draw() {
 
     background(255);
-    //Escreva a condição aqui para avaliar se Tom e Jerry colidem
+    //Escreva a condição aqui para avaliar se o gato e o rato colidem
     drawSprites();
 }
 
